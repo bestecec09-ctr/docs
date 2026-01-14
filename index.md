@@ -5,5 +5,5 @@ nav_order: 1
 ---
 
 ## My Class
-- [data stru](./courses/ds/index.html)
-- [prof eng](./courses/pe/index.html)
+- [data stru](./courses/ds/)
+- [prof eng](./courses/pe/)
