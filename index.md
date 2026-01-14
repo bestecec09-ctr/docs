@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Course Portal
+title: course Portal
 nav_order: 1
 ---
 
