@@ -5,5 +5,5 @@ nav_order: 1
 ---
 
 ##ggg
-- [data stru](./courses/ds).
-- [prof eng](./courses/pe).
+- [data stru](./courses/ds)
+- [prof eng](./courses/pe)
