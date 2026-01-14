@@ -4,6 +4,6 @@ title: Course Portal
 nav_order: 1
 ---
 
-##ggg
+## My Class
 - [data stru](./courses/ds)
 - [prof eng](./courses/pe)
